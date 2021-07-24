@@ -1,0 +1,10 @@
+#main {
+  background-image: linear-gradient(to right, #E1E5EA , #E2D5D5);
+  padding: 3% 7%;
+}
+h1{
+font-family: 'Dancing Script', cursive;
+}
+.card{
+  padding: 7% 7%;
+}

@@ -1,0 +1,29 @@
+.main{
+  padding: 4% 4% 4% 4%;
+  background-color: #fff;
+  margin: 7% 7% 7% 7%;
+}
+body{
+  background-image: linear-gradient(to right, #E1E5EA , #E2D5D5);
+}
+.desp{
+  background-color: #F9F9F9;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 7% 7%;
+
+}
+.grid-container {
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: auto auto auto;
+  /* background-color: #2196F3; */
+  padding: 10px;
+}
+
+.grid-item {
+  /* background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8); */
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
